@@ -8,6 +8,7 @@ This repository contains code for training and generating images using a Deep Co
 - **main.py**: Imports the DCGAN model and provides options for training the model or generating images.
 
 ## Why DCGAN Might Perform Worse on MNIST
+![tensorboard](https://github.com/nick860/DCGAN_MNIST/assets/55057278/95fbada9-186a-48c7-bcc3-95cc7116b8df)
 
 While DCGANs are powerful architectures for generating images, they may not always perform optimally on certain datasets like MNIST. Here's why:
 
